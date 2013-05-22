@@ -7,7 +7,7 @@ distances and selecting the proper snap-target by sorting the distances.
 ARC enabled, Tested on iOS5.0
 
 ### Extendibility
-More generic approach adding snap points.
+More generic approach to add snap points dynamically.
 
 ### Licensing
 Feel free to use this source code for your purpose. If you find it useful give an upvote on
